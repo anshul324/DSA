@@ -1,4 +1,4 @@
-package arrays;
+package arrays.matrix;
 
 public class RotateMatrix {
     //https://leetcode.com/problems/rotate-image/

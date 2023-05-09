@@ -1,4 +1,4 @@
-package arrays;
+package arrays.moore_algo;
 
 import java.util.ArrayList;
 import java.util.HashMap;

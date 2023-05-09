@@ -1,4 +1,4 @@
-package arrays;
+package arrays.maths_or_combination;
 
 public class UniquePaths {
     public int uniquePaths(int m, int n) {

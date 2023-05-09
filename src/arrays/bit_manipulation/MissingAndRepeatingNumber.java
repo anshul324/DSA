@@ -1,4 +1,4 @@
-package arrays;
+package arrays.bit_manipulation;
 
 import java.util.ArrayList;
 

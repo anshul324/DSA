@@ -1,4 +1,4 @@
-package arrays;
+package arrays.maths_or_combination;
 
 import java.util.ArrayList;
 import java.util.List;

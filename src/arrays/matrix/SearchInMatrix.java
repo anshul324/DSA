@@ -1,4 +1,4 @@
-package arrays;
+package arrays.matrix;
 
 public class SearchInMatrix {
     //https://leetcode.com/problems/search-a-2d-matrix/

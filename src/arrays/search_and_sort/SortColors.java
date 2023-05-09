@@ -1,4 +1,4 @@
-package arrays;
+package arrays.search_and_sort;
 
 import java.util.Arrays;
 

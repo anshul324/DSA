@@ -1,4 +1,4 @@
-package arrays;
+package arrays.search_and_sort;
 
 public class MergeSortedArrays {
     //https://leetcode.com/problems/merge-sorted-array/description/
